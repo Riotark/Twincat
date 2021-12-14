@@ -1,2 +1,2 @@
 # Twincat
-ST or ++ Programming for Twincat
+ST or C++ Programming for Twincat
